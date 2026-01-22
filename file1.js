@@ -8,5 +8,5 @@ const { add, subs } = require('./utils');
 
 // console.log(a, b);
 
-console.log(add(a, b));
-console.log(subs(b, a));
+// console.log(add(a, b));
+// console.log(subs(b, a));
